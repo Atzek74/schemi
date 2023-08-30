@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2023-08-30T13:45:32.477Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.7.1" etag="GH-Itz3Dd3Cn7f6aOhCN" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-30T13:46:55.842Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="mQVKz6_BOqi7Pd6uHIsR" version="21.7.1" type="github">
   <diagram name="Pagina-1" id="WhzRtIxGuvHcT0Pz8Ad7">
-    <mxGraphModel>
+    <mxGraphModel dx="960" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oYPYK4PtgWssIYVdh_ft-1" value="bitcoind" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oYPYK4PtgWssIYVdh_ft-2" value="nginx" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="170" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oYPYK4PtgWssIYVdh_ft-3" value="tor" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="170" y="550" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oYPYK4PtgWssIYVdh_ft-4" value="lnd" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
